@@ -6,7 +6,6 @@
 <p> POS 3.0 </p>    
 <p> POS 4.0 </p>
 <img src="https://th.bing.com/th/id/OIP.Gr7hcjTcqf6vnQBkv0kfbgHaFj?pid=ImgDet&rs=1" >
-<button> click me </button>
 </body>
 </html>
 
