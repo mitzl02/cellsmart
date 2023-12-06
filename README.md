@@ -1,8 +1,5 @@
 <html>
 <head>
-<title>
-Pos Nation
-</title>
 <body>
 <h1> Training ppt </h1>
 <p> <a href="\POS 2.0.html"> POS 2.0 </a></p>
